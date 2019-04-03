@@ -1,0 +1,10 @@
+.navbar ul li{
+	display: inline-block;
+}
+.post-date small{
+	display:block;
+	background:#ffccff;
+	padding:4px;
+	margin:3px 0;
+	
+}
