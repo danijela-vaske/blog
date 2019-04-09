@@ -1,10 +1,9 @@
-.navbar ul li{
-	display: inline-block;
+.post-date{
+	background: #f4f4f4;
+	padding: 4px;
+	margin: 3px 0;
+	display: block;
 }
-.post-date small{
-	display:block;
-	background:#ffccff;
-	padding:4px;
-	margin:3px 0;
-	
+.post-thumb{
+	width: 100%;
 }
